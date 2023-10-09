@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advik Blog
+title: Shuban Blog
 ---
 
 
@@ -78,7 +78,7 @@ body {
 
 <h2>About Me</h2>
 
-<p>Hi guys, I am Shuban Pal. Some of my interests include cybersecurity, computer science, and math. I am fluent in Python, Go, and C. Some of my hobbies are playing video games, coding, and robotics. Here is a cool village I built in minecraft<br></p>
+<p>Hi, I am Shuban Pal. Some of my interests include cybersecurity, computer science, and math. I am fluent in Python, Go, and C. Some of my hobbies are playing video games, coding, and robotics. Here is a cool village I built in minecraft<br></p>
 <img src="https://raw.githubusercontent.com/shuban-789/Markdown-images/main/minecraft.png" width="450">
 
 
