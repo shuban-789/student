@@ -77,12 +77,27 @@ body {
 <body>
 
 <h2>About Me</h2>
-<p>Hey guys, I'm Advik(the goat). I'm taking CSP because I love to code code code. <br>
-I love music, computer science, and video games. <br>
-I drew a picture that describes a lot of my interests, check it out below: <br></p>
-<img src="images/about_me_picture.png" width="250">
 
-<h2>Special Shoutout</h2>
-<p>One of my favorite albums(and album covers): <br>
-Wish You Were Here - Pink Floyd <br></p>
-<a href="https://www.youtube.com/watch?v=Y9LU0utKCSw&list=OLAK5uy_mzowhqljIOba8BVGEmVkeaWeL2S_bO4bw" target="_blank"><img src="wishyouwerehere.jpg" width="300"></a>
+<p>Hi guys, I am Shuban Pal. Some of my interests include cybersecurity, computer science, and math. I am fluent in Python, Go, and C. Some of my hobbies are playing video games, coding, and robotics. Here is a cool village I built in minecraft<br></p>
+<img src="https://raw.githubusercontent.com/shuban-789/Markdown-images/main/minecraft.png" width="450">
+
+
+<h2>Check out my Github!</h2>
+
+<p>One of my coolest projects: <br>
+
+Orion (RSH) Server <br></p>
+<a href="https://github.com/shuban-789/Orion" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=chartreuse-dark" width="450"></a>
+<br>
+<h1>  My Skillbase:</h1>
+
+<h2>Programming Languages:</h2>
+<img src="https://skillicons.dev/icons?i=py,c,go" width="240">
+<h2>Tools:</h2>
+<img src="https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker" width="540">
+<h2>Backend Software:</h2>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,nginx" width="240">
+<br>
+<h2>  Currently trying to learn:</h2>
+
+<img src="https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity" width="450">
