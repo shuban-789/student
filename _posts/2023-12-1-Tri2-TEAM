@@ -1,0 +1,32 @@
+# Team Teach Homework 1 (Tanav, Aidan, Srini, Anvay)
+
+### Bandwidth Question
+In the context of Computers, Bandwidth is basically the speed of information retrieval. It is sometimes confused with internet speed which is measured by ping or latency. But latency, which is measured in ms is the time it takes to retrieve OR download data. So a low ping is higher speed.
+
+### Computer Network Question
+The main difference between LAN and WAN is that they are used in different settings. WAN would be something running for a whole area or the network web on a grander scheme. So something like a cell tower. Anything providing network access on a wider range is WAN. While LAN would be like home Wifi. One example of why LAN would be used is maybe in an esports tournament. The participants will probably compete on LAN because all of them are there in person and it might be faster to do so, or even more convenient than WAN. It is important though in such network settings we enable SSL and secure cryptographic algorithms because if a hacker intercepts a conversation between clients and servers it could cause a security breach. The computer network structure can be a whole intricate web of switches and routers each distributing network access to servers and desktops.
+
+### Packet Switching
+The journey of a packet can be really big depending on the structure of the network. Networks are highly customizable and some structures can be easy and familiar as others are complex. A good tool to simulate network structure is Cisco Packet Tracer. One such example could be a chat server or IRC in which a user sends the server a message and the server relays that message, sent in a packet to another user.
+
+# Team Teach Homework 2 (Ryan, Jason, Aaron)
+
+# Team Teach Homework 3 (Ronit, Imaad, Tarun, Tejas)
+
+### Bonus Hack (0.05 pts): Self Reflect on your use of technology? Whats your daily screen time? What beneficial effects of technology do you utilize and what are some negative consequences you succumb to?
+
+### ANSWER: 
+My daily screen time is about 6 hours on my computer, but 2 hours on my phone. I use my computer more than I use my phone. Some beneficial effects of this are that I need these devices to submit housework, code, and reach information. I am relayed information at a fast rate and a lot of tools and resources are at my fingertips. Such examples of these resources could be Google search for information, the time module on my computer for keeping track of time, and the internet for online communication or reaching important websites. One big negative consequence is distraction. By being on the device itself I am risking the chance of there being distracted from my goal for an elongated amount of time.
+
+### Question 1: Choose an innovation(Social media, computers, phones, etc.) and talk about an alternative use than what its actually use for. Then, give the potential positive and negative impacts of the use you came up with
+
+### ANSWER:
+The innovation I will be talking about is the computer. In specific, the personal computer which is referred to as a PC which can come in the form of a laptop or a desktop. This is an invention of high computing power and processing power. It reels its components such as the CPU, GPU, RAM, SSD, altogether to function properly and perform tasks with effectiveness and efficiency. We use it for entertainment in things like gaming, requiring fast processing, productive things like meetings or school work which can be done because the computer is able to connect to the internet. Although it is not used for this, one alternative thing this personal computer could be used for is a File Transfer Protocol server. This task is usually done by special server computers made to be constantly running. But the personal computer could be hosting a server. 
+
+Pros: The server will run like any other FTP server. The goal of distributing files will be achieved easily
+Cons: This will require the computer to be on constantly. Something that a personal computer does not usually do.
+
+### Question 2: How might you as a programmer implement code that helps your program have less unintended risks.
+
+Unintended risks can be minimized by being noticed. If as a programmer we can notice some of the flaws in our work ahead of time, we can add features that could minimize those social issues or maybe remove a feature that may be really destructive
+
