@@ -52,4 +52,13 @@ A combination of a bunch of ACSL practice problems, and competing in computing O
 
 ## Building a Practice Routine
 
+I think for my practice routine it is best that I find every saturday to do simulation problems and maybe periodically attempt more practice MCQs so that I can see if I am approaching my goal of full scoring or not
 
+## What I improved on from last time
+
+- More algorithm questions were correct
+- Since there were more team teaches I got more questions correct for those
+
+## Summary
+
+Although I have improved from last time, there is a long way to go until I fullscore the MCQ. But I believe there is enough time to do it.
