@@ -89,15 +89,6 @@ body {
 Orion (RSH) Server <br></p>
 <a href="https://github.com/shuban-789/Orion" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shuban-789&repo=Orion&theme=chartreuse-dark" width="450"></a>
 <br>
-<h1>  My Skillbase:</h1>
+<h1>  Login Page Showcase:</h1>
 
-<h2>Programming Languages:</h2>
-<img src="https://skillicons.dev/icons?i=py,c,go" width="240">
-<h2>Tools:</h2>
-<img src="https://skillicons.dev/icons?i=vscode,linux,bash,aws,blender,docker" width="540">
-<h2>Backend Software:</h2>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,nginx" width="240">
-<br>
-<h2>  Currently trying to learn:</h2>
-
-<img src="https://skillicons.dev/icons?i=gitlab,pytorch,tensorflow,firebase,unity" width="450">
+<span class="psw">Login Page? <a href="{{site.baseurl}}/login"> Sign Up</a></span>
