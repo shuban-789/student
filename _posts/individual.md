@@ -1,4 +1,4 @@
-# N@TM Reflection - A comprehensive analysis
+# N@TM Reflection - A comprehensive analysis 🌍
 
 - What went well
 
@@ -10,7 +10,7 @@
 
 - Other values gained by other teams
 
-## What went well
+## What went well 🗼
 
 At N@TM, all of the procedures went smoothly as planned. All of the features that we had planned for were working and a lot of people came by to check out our website. Some good techniques we had employed was a really cool homepage with aesthetics such as an RGB outline which people could spot from faraway. This attracted a lot of people to check out our project.
 
