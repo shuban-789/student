@@ -267,7 +267,7 @@ There are two plans I have for CPT. Plan 1 is to build off on this current CPT p
 If the entire Del Norte is submitting a server wit flask backend as a part of CPT, I need to make something which deviates me form others. Something which can get me a 5. So I can do this by these 3 ideas:
 
 
-### 1. Extend Bluejay CPT
+### 1. Extend Bluejay CPT 🐦🐧
 
 Possible Features:
 
@@ -279,7 +279,7 @@ Possible Features:
 
 - Refined purpose
 
-### 2. Extending Orion RSH (my personal project form trimester 1) and adding some more features
+### 2. Extending Orion RSH (my personal project form trimester 1) and adding some more features ✈️🌍
 
 Possible Features:
 
@@ -291,16 +291,22 @@ Possible Features:
 
 - Taylor per rubric
 
-### Plan for CollegeBoard MCQ
+### Plan for CollegeBoard MCQ 📃
 
 - Research more on my own away from web development related subjects
 
 - Refine my coding skills in terms of knowledge
 
-### Orion RSH plan
+### Orion RSH plan 🚀
 
 - Implement PAM support
 
 - Try to maybe use skills from web development to create a distinct UI
 
 - Make better configurations and parsing
+
+### My CPT contributions
+
+For my team, I deployed our backend, I made the MessageAPI feature, and the Like feature. I also did more things, but htese were my key commits. OVerall, I feel like I have acted as a satisfactory Backend operator.
+
+My contributions are documented in the video above.
